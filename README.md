@@ -9,8 +9,4 @@ if you likes it please give it stars and support me to do more thing like this
 and if there is some problems please help me to make it better 
 
 
-![](openNav.png)
 
-![](closeNav.png)
-
-![](navigation.gif)
